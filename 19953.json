@@ -1,0 +1,31 @@
+{
+    "dna": "05000304030400",
+    "name": "Maya #19953",
+    "description": "Maya NFT",
+    "image": "YOUR_URL",
+    "edition": 19953,
+    "date": 1659672492718,
+    "price": "100 VEX",
+    "attributes": [{
+        "name": "Smile with Makeup",
+        "part": "base"
+    }, {
+        "name": "Black Party Dress",
+        "part": "outfit"
+    }, {
+        "name": "Moon",
+        "part": "necklace"
+    }, {
+        "name": "Sunglasses",
+        "part": "glasses"
+    }, {
+        "name": "Long Black",
+        "part": "hair"
+    }, {
+        "name": "Silver",
+        "part": "earrings"
+    }, {
+        "name": "None",
+        "part": "headpiece"
+    }]
+}
