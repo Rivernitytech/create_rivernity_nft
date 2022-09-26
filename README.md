@@ -5,7 +5,7 @@ Step1 install npm packages
 npm install
 
 Step2 setting
-1. set filedir(json and pic files need put in smae path like 19953.jpeg and 19953.json)
+1. set filedir(json and pic files need put in same path like 19953.jpeg and 19953.json)
 2. set collection_name and schema_name
 3. change minter and minterprikey
 4. change tmpacttions struct and readjson function code According to the specific schema struct
